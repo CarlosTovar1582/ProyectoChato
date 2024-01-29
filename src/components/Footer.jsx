@@ -103,14 +103,14 @@ const navigation = {
                 <div className="col-span-2 ...   ">
                   <br />
                   <br />
-                          <p className="text-center text-ls leading-5 text-gray-50   sm:text-black  font-bold ">
+                          <p className="text-center text-ls leading-5 sm:text-black lg:text-white   font-bold ">
                           Av.argentina cdra 523 centro comercial ACOPROM <br />
                           Tienda A28,E3, Lima, Peru <br />
                           Telephone +51 (970) 531 712 <br />
                           Email electricdlc2@gmail.com.
                           </p>
                           <br />
-                          <p className="text-center text-ls leading-5 text-gray-50  sm:text-black  font-bold ">
+                          <p className="text-center text-ls leading-5 sm:text-black lg:text-white   font-bold ">
                             &copy; 2023 Your Company, Inc. All rights reserved.
                           </p>
                 </div>               
