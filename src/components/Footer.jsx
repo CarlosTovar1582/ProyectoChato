@@ -88,34 +88,32 @@ const navigation = {
             <br />
             <br />
             <br />
-              <div className="grid grid-cols-3 gap-4 sm:w-full">
-              <div className="col-span-2 ...  ">
-                <img src="https://i.postimg.cc/L5jSQXxt/mapa.png" className=" rounded-3xl" alt="Flowbite Logo" /> 
-              </div>
-              <div className="sm:w-full">
-                <br />
-            
-                      
-                        <div className="  grid grid-cols-3 gap-4 content-center ...">
-                            <div className="mt-10 text-center"></div>
-                            <div className="mt-10 text-center  w-24 h-24"><img src="https://i.postimg.cc/NFTGvLyk/Logo.jpg" className=" rounded-3xl  " alt="Flowbite Logo" /></div>
-                            <div className="mt-10 text-center"></div>
-                            <div className="mt-10 text-center"></div>
-                            <div className="mt-10 text-center"></div>
-
-                          
-                        </div>
-                    
-                      <p className="mt-10 text-center text-ls leading-5 text-gray-50 font-bold ">
-                      Av.argentina cdra 523 centro comercial ACOPROM <br />
-                      Tienda A28,E3, Lima, Peru <br />
-                      Telephone +51 (970) 531 712 <br />
-                      Email electricdlc2@gmail.com.
-                      </p>
-                      <p className="mt-10 text-center text-ls leading-5 text-gray-50 font-bold ">
-                        &copy; 2023 Your Company, Inc. All rights reserved.
-                      </p>  
+            <div className="relative grid grid-cols-3  gap-1  ">
+                <div className="col-span-2 ...   ">
+                  <img src="https://i.postimg.cc/L5jSQXxt/mapa.png" className=" rounded-3xl  " alt="Flowbite Logo" /> 
+                </div>
+                <div className=" relative grid grid-rows-1">
+                  <div>                
+                    <img src="https://i.postimg.cc/NFTGvLyk/Logo.jpg" className=" rounded-3xl " alt="Flowbite Logo" />
+                  </div>               
+                             
+                </div>   
               </div>  
+              <div className="relative grid grid-cols-1  gap-1  max-w-md mx-auto ">
+                <div className="col-span-2 ...   ">
+                  <br />
+                  <br />
+                          <p className="text-center text-ls leading-5 text-gray-50 font-bold ">
+                          Av.argentina cdra 523 centro comercial ACOPROM <br />
+                          Tienda A28,E3, Lima, Peru <br />
+                          Telephone +51 (970) 531 712 <br />
+                          Email electricdlc2@gmail.com.
+                          </p>
+                          <br />
+                          <p className="text-center text-ls leading-5 text-gray-50 font-bold ">
+                            &copy; 2023 Your Company, Inc. All rights reserved.
+                          </p>
+                </div>               
               </div>       
           </div>
         </div>
