@@ -259,8 +259,8 @@ export default function Header() {
                 <FaWhatsapp   className='Index: 2  position: relative right-0 .. h-14 w-14 text-slate-800 duration-300 cursor-pointer hover:scale-110 hover:text-blue-300 bg-green-600 rounded-full' />
               </a>
           </div>
-          <div className='dark:bg-slate-700 text-slate-700'>01</div>         
-          <div className='dark:bg-slate-700 text-slate-700'>02</div>
+          <div className='dark:bg-slate-700 text-slate-700'></div>         
+          <div className='dark:bg-slate-700 text-slate-700'></div>
           <div>
             <button
               type="button"
