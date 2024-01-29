@@ -90,7 +90,7 @@ const navigation = {
             <br />
               <div className="grid grid-cols-3 gap-4 sm:w-full">
               <div className="col-span-2 ...  ">
-                <img src="https://i.postimg.cc/4yrJy6yW/mapa-1.png" className=" rounded-3xl" alt="Flowbite Logo" /> 
+                <img src="https://i.postimg.cc/L5jSQXxt/mapa.png" className=" rounded-3xl" alt="Flowbite Logo" /> 
               </div>
               <div className="sm:w-full">
                 <br />
